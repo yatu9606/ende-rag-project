@@ -1,0 +1,29 @@
+Endee is a lightweight vector database designed for AI and machine learning applications.
+It enables efficient storage and retrieval of high-dimensional vector embeddings.
+
+Semantic search retrieves documents based on meaning rather than exact keyword matching.
+It uses vector embeddings to understand the semantic context of user queries.
+
+Retrieval Augmented Generation, also known as RAG, combines information retrieval with text generation.
+RAG systems first retrieve relevant documents and then generate accurate answers using a language model.
+
+Vector databases are essential for modern AI systems such as chatbots, recommendation engines, and search platforms.
+They allow fast similarity search over large collections of embeddings.
+
+Sentence Transformers are models that convert text into dense numerical vector representations.
+These embeddings capture semantic meaning and are used for tasks like semantic search and clustering.
+
+Embeddings represent text, images, or other data in numerical form.
+They make it possible to compare similarity between different pieces of content.
+
+Artificial Intelligence systems often rely on embeddings to understand user intent.
+Machine learning models use embeddings as input features for downstream tasks.
+
+Endee can be used as the vector storage layer in AI pipelines.
+It plays a critical role in enabling fast and accurate similarity search.
+
+Semantic similarity measures how close two texts are in meaning.
+Cosine similarity is commonly used to compute similarity between embeddings.
+
+RAG-based systems improve answer quality by grounding responses in retrieved knowledge.
+This reduces hallucinations and improves factual accuracy.

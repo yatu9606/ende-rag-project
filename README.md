@@ -11,7 +11,7 @@ Example:
 - Retrieve relevant chunks based on user query
 - Generate answers using an LLM (RAG pipeline)
 
-## Tech Stack
+## Tech Stack     
 - Python
 - Endee (Vector Database)
 - LangChain / OpenAI / HuggingFace (mention what you used)
